@@ -1,0 +1,6 @@
+/home/andrew/Projects/return-true-sum/return-true-sum/bin/Debug/return-true-sum.exe
+/home/andrew/Projects/return-true-sum/return-true-sum/bin/Debug/return-true-sum.pdb
+/home/andrew/Projects/return-true-sum/return-true-sum/obj/x86/Debug/return-true-sum.csprojAssemblyReference.cache
+/home/andrew/Projects/return-true-sum/return-true-sum/obj/x86/Debug/return-true-sum.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/return-true-sum/return-true-sum/obj/x86/Debug/return-true-sum.exe
+/home/andrew/Projects/return-true-sum/return-true-sum/obj/x86/Debug/return-true-sum.pdb
